@@ -1,1 +1,1 @@
-## This is my forst endtoend ML project
+## This is my first endtoend ML project
