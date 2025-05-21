@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: ml-project
+Version: 0.0.1
+Author: Parth Agrawal
+Author-email: parthagrawal6397025@gmail.com
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
